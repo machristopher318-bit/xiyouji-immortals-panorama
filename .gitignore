@@ -1,0 +1,6 @@
+work/
+docs/
+outputs/
+.vercel/
+.DS_Store
+Thumbs.db
